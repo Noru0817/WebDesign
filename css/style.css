@@ -17,7 +17,7 @@
   position: relative;
   width: 1440px;
   height: 1024px;
-  background-image: url(img/background-main.png);
+  background-image: url(../img/background-main.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -159,7 +159,7 @@
 .plan .overlap {
   position: relative;
   height: 1024px;
-  background-image: url(img/background-plan.png);
+  background-image: url(../img/background-plan.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -342,7 +342,7 @@
 .test .overlap {
   position: relative;
   height: 1024px;
-  background-image: url(img/background-test.png);
+  background-image: url(../img/background-test.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -503,7 +503,7 @@
 .claim .overlap {
   width: 1440px;
   height: 1024px;
-  background-image: url(img/contact-us.png);
+  background-image: url(../img/contact-us.png);
   background-size: cover;
   background-position: 50% 50%;
 }
