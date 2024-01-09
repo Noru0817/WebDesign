@@ -48,10 +48,11 @@
   top: 136px;
   left: 27px;
   position: absolute;
+  text-align: center;
   font-family: "Itim-Regular", Helvetica;
   font-weight: 400;
   color: #040004;
-  font-size: 48px;
+  font-size: 40px;
   letter-spacing: 0;
   line-height: normal;
 }
