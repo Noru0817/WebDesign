@@ -219,6 +219,11 @@
 }
 
 .plan .image {
+  width: 701px;
+  height: 520px;
+}
+
+.plan .image {
   position: absolute;
   width: 701px;
   height: 520px;
@@ -258,7 +263,7 @@
   font-family: "Itim-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
-  font-size: 38px;
+  font-size: 34px;
   letter-spacing: 0;
   line-height: normal;
 }
@@ -286,7 +291,7 @@
   font-family: "Itim-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
-  font-size: 38px;
+  font-size: 34px;
   letter-spacing: 0;
   line-height: normal;
 }
